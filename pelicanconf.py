@@ -39,3 +39,5 @@ THEME = "/Users/alexmansourati/virtualenv/pelican/pelican-themes/svbhack"
 USER_LOGO_URL = SITEURL + '/static/images/my_logo.png'
 
 TAGLINE = 'Data Scientist devoted to statistical rigor and automation. Work @ Vantage Analytics.'
+
+DELETE_OUTPUT_DIRECTORY = False
